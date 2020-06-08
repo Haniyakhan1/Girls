@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Rana Aahil
+#The Credit For This Code Goes To Haniya
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -73,7 +73,7 @@ logo = """
 \033[1;95m┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈
 \033[1;95m┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈
 
-\033[1;93m▇▇▇▇▇ Facebook\033[1;93m Aahil ▇▇▇▇▇
+\033[1;93m▇▇▇▇▇ Facebook\033[1;93m 6.Haniya ▇▇▇▇▇
 \033[1;97m
                  ⊂ヽ
                　 ＼＼  Λ＿Λ
@@ -140,8 +140,8 @@ jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
 print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Haniya"
+CorrectPassword = "0000"
 
 loop = 'true'
 while (loop == 'true'):
@@ -2200,7 +2200,7 @@ def pilih_super():
 : \033[1;94m .....Rana Aahil  BlackTiger....... \033[1;97m :
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;94m +923094161457"""
+              \033[1;94m +923041402930"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	menu()
